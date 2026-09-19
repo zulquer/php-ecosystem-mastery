@@ -1,0 +1,11 @@
+{
+  "name": "php-ecosystem-mastery",
+  "version": "1.0.0",
+  "description": "Ruta de Maestría Senior & Staff en el Ecosistema PHP Moderno: Zend Engine, OPcache, JIT, Fibers, Laravel, Symfony y FrankenPHP",
+  "type": "module",
+  "scripts": {
+    "php:zend:01": "php tracks/01-php-runtime-and-internals/01-zend-engine-opcache-and-memory.php",
+    "php:laravel:01": "php tracks/02-frameworks-laravel-and-symfony/01-laravel-service-container-and-pipeline.php",
+    "php:fiber:01": "php tracks/03-high-performance-and-concurrency/01-frankenphp-worker-and-fiber-simulator.php"
+  }
+}

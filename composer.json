@@ -1,0 +1,23 @@
+{
+  "name": "zulquer/php-ecosystem-mastery",
+  "description": "Ruta de Maestría Senior & Staff en el Ecosistema PHP Moderno: Zend Engine, OPcache, JIT, Fibers, Laravel, Symfony y FrankenPHP",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2"
+  },
+  "require-dev": {
+    "pestphp/pest": "^2.0",
+    "phpstan/phpstan": "^1.10"
+  },
+  "autoload": {
+    "psr-4": {
+      "Mastery\\": "src/"
+    }
+  },
+  "config": {
+    "optimize-autoloader": true,
+    "preferred-install": "dist",
+    "sort-packages": true
+  }
+}
