@@ -4,6 +4,14 @@ Repositorio maestro de referencia técnica profunda para consolidar habilidades 
 
 ---
 
+## 🎯 Preguntas de Entrevista Técnica
+
+Para preparar entrevistas técnicas de alto nivel (**Senior PHP Engineer, Laravel/Symfony Specialist y Principal Software Architect**), este módulo incluye la guía:
+
+👉 **[Las 100 Preguntas Más Comunes en Entrevistas Técnicas: PHP Ecosystem](./INTERVIEW-QUESTIONS.md)** (Zend Engine 4 zval/COW, OPcache & JIT Tracing, Laravel IoC/Pipelines, Symfony HttpKernel, FrankenPHP Worker Mode, Pest & PHPStan 9, con criterios 🚩 *Red Flags* vs 🟢 *Green Flags*).
+
+---
+
 ## 🌐 The Mastery Suite (Ecosistema Modular)
 
 | Repositorio | Especialidad Técnica | Enlace |
